@@ -1,4 +1,29 @@
 # Advanced_face_recognization_attendance
+This is project of Facesnap ,
+
+![Screenshot 2024-09-03 204048](https://github.com/user-attachments/assets/6162b78d-6395-49b0-b1c5-85018420d193)
+
+![Screenshot 2024-09-03 204130](https://github.com/user-attachments/assets/644c4ba0-7281-46cc-90d7-f80090f798ae)
+
+![Screenshot 2024-09-03 204144](https://github.com/user-attachments/assets/17ded56c-7efa-4356-b357-574454c9a838)
+
+![Screenshot 2024-09-04 170343](https://github.com/user-attachments/assets/310c8f89-8d40-455c-8803-7887ccde7291)
+
+![Screenshot 2024-09-04 170407](https://github.com/user-attachments/assets/cb52aa1a-8d88-4437-a9fc-4521ab070dc2)
+
+![Screenshot 2024-09-04 170432](https://github.com/user-attachments/assets/91a0b608-7f21-4778-bebe-89571dff1244)
+
+![Screenshot 2024-09-04 170456](https://github.com/user-attachments/assets/118a94e9-9a93-4f7f-aac5-9214be4a8625)
+
+![Screenshot 2024-09-04 170519](https://github.com/user-attachments/assets/19a20108-2a7a-4ff5-a80d-784fde1059ea)
+
+![Screenshot 2024-09-04 170529](https://github.com/user-attachments/assets/0e0d5216-3ac8-4a8d-9572-aececf6d9ea3)
+
+![Screenshot 2024-09-04 170606](https://github.com/user-attachments/assets/24516a61-d500-4a37-8366-0a22dd6b24a9)
+
+![Screenshot 2024-09-04 170626](https://github.com/user-attachments/assets/00d25663-4a1e-4b36-859b-a6ad75416c3a)
+
+
 
 This is project of Facesnap ,
 # How to run it any system  follow this steps :
