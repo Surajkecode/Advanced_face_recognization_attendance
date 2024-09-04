@@ -47,5 +47,5 @@ step1. Make sure all library are correctly installed check by "pip list"
 step2. All path of img are correctly set as your system directory.
 step3.If dib error or wheel make sure visual studio installer properly
 installed  and c++ download it. 
-# If you want change camera use external camera "video_capture = cv2.VideoCapture(0)" replace 0 with index 2 not work use 1 line number 70 and 116    
-Need support whatsapp 9518772281
+ If you want change camera use external camera "video_capture = cv2.VideoCapture(0)" replace 0 with index 2 not work use 1 line number 70 and 116    
+# Need support whatsapp 9518772281
